@@ -1,2 +1,2 @@
-from suma import suma
-from resta import resta
+from .suma import suma
+from .resta import resta
