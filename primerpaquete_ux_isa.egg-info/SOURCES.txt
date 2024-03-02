@@ -1,0 +1,12 @@
+README.md
+setup.py
+primerpaquete_ux_isa/__init__.py
+primerpaquete_ux_isa/resta.py
+primerpaquete_ux_isa/suma.py
+primerpaquete_ux_isa.egg-info/PKG-INFO
+primerpaquete_ux_isa.egg-info/SOURCES.txt
+primerpaquete_ux_isa.egg-info/dependency_links.txt
+primerpaquete_ux_isa.egg-info/top_level.txt
+primerpaquete_ux_isa/extras/__init__.py
+primerpaquete_ux_isa/extras/divide.py
+primerpaquete_ux_isa/extras/multiplica.py

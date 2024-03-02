@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'Mi primer paquete de Python con una descripción ligeramente
 
 # Configurando
 setup(
-    name="modulomuysimple",  # Corregido: eliminado espacio en blanco extra
+    name="primerpaquete_ux_isa",  # Corregido: eliminado espacio en blanco extra
     version=VERSION,
     author="isa_belle7",
     author_email="isabellajib5@gmail.com",  # Corregido: sin < y >
