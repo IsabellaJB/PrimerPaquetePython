@@ -1,3 +1,3 @@
-def sumar(a, b):
+def suma(a, b):
     """Suma dos números."""
     return a + b
