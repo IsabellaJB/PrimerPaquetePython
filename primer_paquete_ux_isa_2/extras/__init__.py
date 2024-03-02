@@ -1,2 +1,2 @@
-from .extras import multiplica
-from .extras import divide
+from .multiplica import multiplica
+from .divide import divide
